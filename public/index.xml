@@ -191,5 +191,15 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/articles/2020-10-11-spot-the-insect/featured.jpg" />
     </item>
     
+    <item>
+      <title>About Me</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>shweata.hegde@gmail.com (Shweata Hegde)</author>
+      <guid>//localhost:1313/about/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>

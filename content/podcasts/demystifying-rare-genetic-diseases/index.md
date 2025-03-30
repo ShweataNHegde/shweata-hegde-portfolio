@@ -24,3 +24,7 @@ Prof. Bhattacharya is also a Professor and Head of the Department of Biology at 
 The episode has useful insights for all listeners---individuals affected with GNE Myopathy, researchers or policy-makers interested in Rare Genetic Diseases, or someone who is curious and wants to hear personal stories of rare genetic patients.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/20PGScTEXMP5GswVcssOHN?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<img src = "gne-myopathy-poster.png">
+
+_Poster Made by: Shweata Hegde_

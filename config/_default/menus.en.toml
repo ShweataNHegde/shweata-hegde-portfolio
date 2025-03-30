@@ -33,11 +33,6 @@
   weight = 20
 
 [[main]]
-  name = "Gallery"
-  pageRef = "gallery"
-  weight = 50
-
-[[main]]
   name = "Open Science"
   weight=30
 
