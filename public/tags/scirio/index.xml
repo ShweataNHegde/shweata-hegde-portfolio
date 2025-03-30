@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scirio on Shweata Hegde</title>
+    <link>//localhost:1313/tags/scirio/</link>
+    <description>Recent content in Scirio on Shweata Hegde</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>shweata.hegde@gmail.com (Shweata Hegde)</managingEditor>
+    <webMaster>shweata.hegde@gmail.com (Shweata Hegde)</webMaster>
+    <copyright>© 2025 Shweata Hegde</copyright>
+    <lastBuildDate>Fri, 11 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/scirio/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SciComm Lite 1.0. Report</title>
+      <link>//localhost:1313/articles/2021-06-11-scicomm-lite-report/</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      <author>shweata.hegde@gmail.com (Shweata Hegde)</author>
+      <guid>//localhost:1313/articles/2021-06-11-scicomm-lite-report/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/articles/2021-06-11-scicomm-lite-report/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

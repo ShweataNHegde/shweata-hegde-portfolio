@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Shweata Hegde</title>
+    <link>//localhost:1313/tags/</link>
+    <description>Recent content in Tags on Shweata Hegde</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>shweata.hegde@gmail.com (Shweata Hegde)</managingEditor>
+    <webMaster>shweata.hegde@gmail.com (Shweata Hegde)</webMaster>
+    <copyright>© 2025 Shweata Hegde</copyright>
+    <lastBuildDate>Sun, 20 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>TheSTEMTimes</title>
+      <link>//localhost:1313/tags/thestemtimes/</link>
+      <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
+      <author>shweata.hegde@gmail.com (Shweata Hegde)</author>
+      <guid>//localhost:1313/tags/thestemtimes/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>NASW</title>
+      <link>//localhost:1313/tags/nasw/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      <author>shweata.hegde@gmail.com (Shweata Hegde)</author>
+      <guid>//localhost:1313/tags/nasw/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Scirio</title>
+      <link>//localhost:1313/tags/scirio/</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      <author>shweata.hegde@gmail.com (Shweata Hegde)</author>
+      <guid>//localhost:1313/tags/scirio/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Book-Review</title>
+      <link>//localhost:1313/tags/book-review/</link>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      <author>shweata.hegde@gmail.com (Shweata Hegde)</author>
+      <guid>//localhost:1313/tags/book-review/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

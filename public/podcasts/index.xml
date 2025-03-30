@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Science Podcasts on Shweata Hegde</title>
+    <link>//localhost:1313/podcasts/</link>
+    <description>Recent content in Science Podcasts on Shweata Hegde</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>shweata.hegde@gmail.com (Shweata Hegde)</managingEditor>
+    <webMaster>shweata.hegde@gmail.com (Shweata Hegde)</webMaster>
+    <copyright>© 2025 Shweata Hegde</copyright>
+    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/podcasts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>IndiaAsksWhy---The Science Podcast</title>
+      <link>//localhost:1313/podcasts/indiaaskswhy/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <author>shweata.hegde@gmail.com (Shweata Hegde)</author>
+      <guid>//localhost:1313/podcasts/indiaaskswhy/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/podcasts/indiaaskswhy/featured.png" />
+    </item>
+    
+    <item>
+      <title>Demystifying Rare Genetic Diseases</title>
+      <link>//localhost:1313/podcasts/demystifying-rare-genetic-diseases/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <author>shweata.hegde@gmail.com (Shweata Hegde)</author>
+      <guid>//localhost:1313/podcasts/demystifying-rare-genetic-diseases/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/podcasts/demystifying-rare-genetic-diseases/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
